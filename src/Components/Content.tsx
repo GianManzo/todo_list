@@ -21,7 +21,7 @@ const Content = () => {
         </div>
         <div>
           <h2>Suas Tarefas</h2>
-          <TaskList />
+          <TaskList taskList={taskList} />
         </div>
       </main>
     </>
