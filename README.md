@@ -1,46 +1,82 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="#-stack">Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-roadmap">Roadmap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  ToDo-List
+</h1>
 
-## Available Scripts
+<div align="center">
+  <img src="https://i.imgur.com/rHf5TAh.png" width="80%" alt="page login"  />
+</div>
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+#### ⚠️ Project created to study the TypeScript superSet
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ✨ Stack
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [ ] React
+- [ ] TypeScript
+- [ ] CSS Module
+- [ ] Bootstrap icons
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Roadmap
 
-### `npm run build`
+From your terminal navigate to the project folder and run:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```cl
+  npm install
+  npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔖 Layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Home Page
 
-### `npm run eject`
+Link acess: https://todolist-tsx.netlify.app/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<div>
+  <img src="https://i.imgur.com/rHf5TAh.png" width="100%" alt="My account"  />
+</div>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Task List
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<div>
+  <img src="https://i.imgur.com/vNQkpHO.png" width="100%" alt="Modal / Comments"  />
+</div>
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Edit your Task
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<div>
+  <img src="https://i.imgur.com/VNXbSRt.png" width="100%" alt="Photo Post / Preview"  />
+</div>
+
+---
+
+## 📲 Contact
+
+<div>
+  <a href="https://www.linkedin.com/in/gianmanzo/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25"     alt="linkedin logo"/></a>
+      
+   <a href="mailto:ggianmanzo@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25"     alt="linkedin logo" /></a>
+      
+   <a href="https://api.whatsapp.com/send?phone=+5519989873771&text=Ola" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25"     alt="linkedin logo" /></a>
+      
+   <a href="https://www.instagram.com/gianmanzoo/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25"     alt="linkedin logo" /></a>
+</div>
+
+---
+
+Project developed by Gian Manzo
