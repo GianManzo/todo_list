@@ -36,19 +36,19 @@ const TaskForm = ({ btnText, taskList, setTaskList }: Props) => {
   return (
     <form onSubmit={addTaskHandler} className={styles.form}>
       <div className={styles.input_container}>
-        <label htmlFor="title">Título: </label>
+        <label htmlFor="title">Title: </label>
         <input
           type="text"
           name="title"
-          placeholder="Título da tarefa"
+          placeholder="Task title..."
           onChange={handleChange}
           value={title}
         />
       </div>
       <div className={styles.input_container}>
-        <label htmlFor="difficulty">Dificuldade: </label>
+        <label htmlFor="difficulty">Difficulty: </label>
         <input
-          type="text"
+          type="number"
           name="difficulty"
           placeholder="Dificuldade da tarefa"
           onChange={handleChange}

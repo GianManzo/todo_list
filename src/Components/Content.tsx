@@ -12,15 +12,15 @@ const Content = () => {
     <>
       <main className={styles.main}>
         <div>
-          <h2>Qual sua tarefa?</h2>
+          <h2>What is your task?</h2>
           <TaskForm
-            btnText="Criar Tarefa"
+            btnText="Create"
             taskList={taskList}
             setTaskList={setTaskList}
           />
         </div>
         <div>
-          <h2>Suas Tarefas</h2>
+          <h2>Your tasks</h2>
           <TaskList taskList={taskList} />
         </div>
       </main>
