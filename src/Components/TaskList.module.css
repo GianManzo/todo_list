@@ -3,7 +3,7 @@
   justify-content: space-between;
   max-width: 400px;
   margin: 0 auto;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #a4abb7;
   padding: 1em;
 }
 
@@ -23,7 +23,7 @@
   justify-content: center;
 }
 
-.actions:nth-child(2) {
+.actions i {
   margin-bottom: 0.5em;
   font-size: 1.2em;
   cursor: pointer;
@@ -33,6 +33,6 @@
   transition: 0.5s;
 }
 
-.actions:nth-child(2):hover {
-  color: #61dafb;
+.actions i:hover {
+  color: #996dff;
 }
